@@ -1,0 +1,5075 @@
+{
+  "version": 1,
+  "libraries": [
+    {
+      "id": "MrCZ0vXU9[UKURqJXC)&",
+      "name": "Pokušaj",
+      "fields": [
+        {
+          "id": "[>zDgn4;ouyEKGpI]fvT",
+          "name": "id",
+          "type": "integer",
+          "required": false,
+          "auto": true,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "USAGE_IN_TITLE",
+          "relationType": null,
+          "source": {
+            "u": "[>zDgn4;ouyEKGpI]fvT",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 0,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 2,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "[>zDgn4;ouyEKGpI]fvT",
+                "t": "[>zDgn4;ouyEKGpI]fvT",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "Kc0n%F;>-lgMXZ:NEF;K",
+          "name": "datum i vreme",
+          "type": "datetime",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "Kc0n%F;>-lgMXZ:NEF;K",
+            "tt": "datum i vreme",
+            "hint": "",
+            "type": "ft_date_time",
+            "usg": "NOT_USAGE",
+            "num": 9,
+            "order": 1,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"dateTimeFormats\":{},\"startYear\":1900,\"endYear\":2100,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Kc0n%F;>-lgMXZ:NEF;K",
+                "t": "Kc0n%F;>-lgMXZ:NEF;K",
+                "i": 1
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "K8[AVNG<nITr7UgWANY<",
+          "name": "test",
+          "type": "link",
+          "required": false,
+          "auto": false,
+          "target": ">5Im%[vTqq<+VpG-w0U#",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": 0,
+          "source": {
+            "u": "K8[AVNG<nITr7UgWANY<",
+            "tt": "test",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 2,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "K8[AVNG<nITr7UgWANY<",
+                "t": "K8[AVNG<nITr7UgWANY<",
+                "s": ">5Im%[vTqq<+VpG-w0U#",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "NZ8%l]us#]VSp%u&Sk&Q",
+          "name": "meta",
+          "type": "link",
+          "required": false,
+          "auto": false,
+          "target": "[Aivyxd;R-QYWDM))M(u",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": 1,
+          "source": {
+            "u": "NZ8%l]us#]VSp%u&Sk&Q",
+            "tt": "meta",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 3,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":1,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "NZ8%l]us#]VSp%u&Sk&Q",
+                "t": "NZ8%l]us#]VSp%u&Sk&Q",
+                "s": "[Aivyxd;R-QYWDM))M(u",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "Ed<Z966iVcU0yZ<H<8Wp",
+          "name": "Trošak (din.)",
+          "type": "integer",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "Ed<Z966iVcU0yZ<H<8Wp",
+            "tt": "Trošak (din.)",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 6,
+            "order": 4,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Ed<Z966iVcU0yZ<H<8Wp",
+                "t": "Ed<Z966iVcU0yZ<H<8Wp"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "<gr:6Kw<11erM%SPex<1",
+          "name": "Vreme (min.)",
+          "type": "integer",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "<gr:6Kw<11erM%SPex<1",
+            "tt": "Vreme (min.)",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 7,
+            "order": 5,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "<gr:6Kw<11erM%SPex<1",
+                "t": "<gr:6Kw<11erM%SPex<1"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "DDC9M[bc4+lb*H*;H[Y>",
+          "name": "Čvor pre pokušaja",
+          "type": "link",
+          "required": false,
+          "auto": false,
+          "target": "XRY1eIMuB8V17ru05z#k",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": 0,
+          "source": {
+            "u": "DDC9M[bc4+lb*H*;H[Y>",
+            "tt": "Čvor pre pokušaja",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 6,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "DDC9M[bc4+lb*H*;H[Y>",
+                "t": "DDC9M[bc4+lb*H*;H[Y>",
+                "s": "XRY1eIMuB8V17ru05z#k",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "]QNc0ixZ0gy)gsXN0-tY",
+          "name": "Čvor posle pokušaja",
+          "type": "link",
+          "required": false,
+          "auto": false,
+          "target": "XRY1eIMuB8V17ru05z#k",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": 0,
+          "source": {
+            "u": "]QNc0ixZ0gy)gsXN0-tY",
+            "tt": "Čvor posle pokušaja",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 8,
+            "order": 7,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "]QNc0ixZ0gy)gsXN0-tY",
+                "t": "]QNc0ixZ0gy)gsXN0-tY",
+                "s": "XRY1eIMuB8V17ru05z#k",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        }
+      ],
+      "source": {
+        "templates": [
+          {
+            "u": "[>zDgn4;ouyEKGpI]fvT",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 0,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 2,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "[>zDgn4;ouyEKGpI]fvT",
+                "t": "[>zDgn4;ouyEKGpI]fvT",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "Kc0n%F;>-lgMXZ:NEF;K",
+            "tt": "datum i vreme",
+            "hint": "",
+            "type": "ft_date_time",
+            "usg": "NOT_USAGE",
+            "num": 9,
+            "order": 1,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"dateTimeFormats\":{},\"startYear\":1900,\"endYear\":2100,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Kc0n%F;>-lgMXZ:NEF;K",
+                "t": "Kc0n%F;>-lgMXZ:NEF;K",
+                "i": 1
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "K8[AVNG<nITr7UgWANY<",
+            "tt": "test",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 2,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "K8[AVNG<nITr7UgWANY<",
+                "t": "K8[AVNG<nITr7UgWANY<",
+                "s": ">5Im%[vTqq<+VpG-w0U#",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "NZ8%l]us#]VSp%u&Sk&Q",
+            "tt": "meta",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 3,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":1,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "NZ8%l]us#]VSp%u&Sk&Q",
+                "t": "NZ8%l]us#]VSp%u&Sk&Q",
+                "s": "[Aivyxd;R-QYWDM))M(u",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "Ed<Z966iVcU0yZ<H<8Wp",
+            "tt": "Trošak (din.)",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 6,
+            "order": 4,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Ed<Z966iVcU0yZ<H<8Wp",
+                "t": "Ed<Z966iVcU0yZ<H<8Wp"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "<gr:6Kw<11erM%SPex<1",
+            "tt": "Vreme (min.)",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 7,
+            "order": 5,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "<gr:6Kw<11erM%SPex<1",
+                "t": "<gr:6Kw<11erM%SPex<1"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "DDC9M[bc4+lb*H*;H[Y>",
+            "tt": "Čvor pre pokušaja",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 6,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "DDC9M[bc4+lb*H*;H[Y>",
+                "t": "DDC9M[bc4+lb*H*;H[Y>",
+                "s": "XRY1eIMuB8V17ru05z#k",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "]QNc0ixZ0gy)gsXN0-tY",
+            "tt": "Čvor posle pokušaja",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 8,
+            "order": 7,
+            "lib": "MrCZ0vXU9[UKURqJXC)&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "]QNc0ixZ0gy)gsXN0-tY",
+                "t": "]QNc0ixZ0gy)gsXN0-tY",
+                "s": "XRY1eIMuB8V17ru05z#k",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        ],
+        "entry_pages": "{\"pages\":[{\"t\":\"def_page_title\",\"f\":[0,1,2,3,6,7,8,9],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":true,\"hidden\":false}],\"steps\":false,\"name_max_lines\":1,\"desc_max_lines\":2}",
+        "title": "Pokušaj",
+        "icon": "flat:folder_blue.png",
+        "version": 26,
+        "triggers": ""
+      }
+    },
+    {
+      "id": "Xw@tq:&Be!pi8v-A[Sb&",
+      "name": "Lični faktori",
+      "fields": [
+        {
+          "id": "PcURP<h]x5J&*pT9ZGQ<",
+          "name": "id",
+          "type": "integer",
+          "required": false,
+          "auto": true,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "PcURP<h]x5J&*pT9ZGQ<",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 0,
+            "lib": "Xw@tq:&Be!pi8v-A[Sb&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "PcURP<h]x5J&*pT9ZGQ<",
+                "t": "PcURP<h]x5J&*pT9ZGQ<",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "]0kZ%RKTk)bi;wXEhoyK",
+          "name": "nivo",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "USAGE_IN_TITLE",
+          "relationType": null,
+          "source": {
+            "u": "]0kZ%RKTk)bi;wXEhoyK",
+            "tt": "nivo",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 3,
+            "order": 1,
+            "lib": "Xw@tq:&Be!pi8v-A[Sb&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "]0kZ%RKTk)bi;wXEhoyK",
+                "t": "]0kZ%RKTk)bi;wXEhoyK",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "G!9h-BEKaEAkEhPwV[:Z",
+          "name": "opis",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "G!9h-BEKaEAkEhPwV[:Z",
+            "tt": "opis",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 4,
+            "order": 2,
+            "lib": "Xw@tq:&Be!pi8v-A[Sb&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "G!9h-BEKaEAkEhPwV[:Z",
+                "t": "G!9h-BEKaEAkEhPwV[:Z",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        }
+      ],
+      "source": {
+        "templates": [
+          {
+            "u": "PcURP<h]x5J&*pT9ZGQ<",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 0,
+            "lib": "Xw@tq:&Be!pi8v-A[Sb&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "PcURP<h]x5J&*pT9ZGQ<",
+                "t": "PcURP<h]x5J&*pT9ZGQ<",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "]0kZ%RKTk)bi;wXEhoyK",
+            "tt": "nivo",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 3,
+            "order": 1,
+            "lib": "Xw@tq:&Be!pi8v-A[Sb&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "]0kZ%RKTk)bi;wXEhoyK",
+                "t": "]0kZ%RKTk)bi;wXEhoyK",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "G!9h-BEKaEAkEhPwV[:Z",
+            "tt": "opis",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 4,
+            "order": 2,
+            "lib": "Xw@tq:&Be!pi8v-A[Sb&",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "G!9h-BEKaEAkEhPwV[:Z",
+                "t": "G!9h-BEKaEAkEhPwV[:Z",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        ],
+        "entry_pages": "{\"pages\":[{\"t\":\"def_page_title\",\"f\":[0,3,4],\"ml\":[\"\\u003e5Im%[vTqq\\u003c+VpG-w0U#\"],\"inv\":[],\"hide_aggr\":[],\"d\":true,\"hidden\":false}],\"steps\":false,\"name_max_lines\":1,\"desc_max_lines\":2}",
+        "title": "Lični faktori",
+        "icon": "flat:folder_blue.png",
+        "version": 26,
+        "triggers": ""
+      }
+    },
+    {
+      "id": ">5Im%[vTqq<+VpG-w0U#",
+      "name": "Test—žene",
+      "fields": [
+        {
+          "id": "NlYWTQngKpqS!0dzTEX8",
+          "name": "id",
+          "type": "integer",
+          "required": false,
+          "auto": true,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "NlYWTQngKpqS!0dzTEX8",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 10,
+            "order": 0,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "NlYWTQngKpqS!0dzTEX8",
+                "t": "NlYWTQngKpqS!0dzTEX8",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "FOI-Nu:fU[K#cYr9Q@#B",
+          "name": "naziv",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "USAGE_IN_TITLE",
+          "relationType": null,
+          "source": {
+            "u": "FOI-Nu:fU[K#cYr9Q@#B",
+            "tt": "naziv",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 11,
+            "order": 1,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "FOI-Nu:fU[K#cYr9Q@#B",
+                "t": "FOI-Nu:fU[K#cYr9Q@#B",
+                "s": "",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "[kXD96faTAnrtyI*vJZf",
+          "name": "datum početka",
+          "type": "date",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "[kXD96faTAnrtyI*vJZf",
+            "tt": "datum početka",
+            "hint": "",
+            "type": "ft_date",
+            "usg": "NOT_USAGE",
+            "num": 6,
+            "order": 2,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"dateTimeFormats\":{},\"startYear\":1900,\"endYear\":2100,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "[kXD96faTAnrtyI*vJZf",
+                "t": "[kXD96faTAnrtyI*vJZf",
+                "s": "",
+                "i": 1
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "X+5oWS2**wz*sgHg]lXS",
+          "name": "broj pokušaja",
+          "type": "integer",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "X+5oWS2**wz*sgHg]lXS",
+            "tt": "broj pokušaja",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 4,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "X+5oWS2**wz*sgHg]lXS",
+                "t": "X+5oWS2**wz*sgHg]lXS",
+                "s": ""
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "TB%&7L(P;Sipg64h2ZcH",
+          "name": "konfiguracija",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "Atributi testa koji se ne prate, ali mogu početi da se prate ako se pokažu relevantnim",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "TB%&7L(P;Sipg64h2ZcH",
+            "tt": "konfiguracija",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 8,
+            "order": 5,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"description\":\"Atributi testa koji se ne prate, ali mogu početi da se prate ako se pokažu relevantnim\",\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "TB%&7L(P;Sipg64h2ZcH",
+                "t": "TB%&7L(P;Sipg64h2ZcH",
+                "s": "",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "--#&5#JLvQ3z*OITQD]o",
+          "name": "min. broj meta",
+          "type": "integer",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "--#&5#JLvQ3z*OITQD]o",
+            "tt": "min. broj meta",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 26,
+            "order": 5,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "--#&5#JLvQ3z*OITQD]o",
+                "t": "--#&5#JLvQ3z*OITQD]o"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "GUCD<2>]&Ik&Wlu+E8@c",
+          "name": "ishod",
+          "type": "link",
+          "required": false,
+          "auto": false,
+          "target": "Ura2gbn:jJ&y&Z*8ey*0",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": 0,
+          "source": {
+            "u": "GUCD<2>]&Ik&Wlu+E8@c",
+            "tt": "ishod",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 18,
+            "order": 6,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "GUCD<2>]&Ik&Wlu+E8@c",
+                "t": "GUCD<2>]&Ik&Wlu+E8@c",
+                "s": "Ura2gbn:jJ&y&Z*8ey*0",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "Z(SrI1QKhvf;AWc+C1+C",
+          "name": "Lični faktori",
+          "type": "link",
+          "required": false,
+          "auto": false,
+          "target": "Xw@tq:&Be!pi8v-A[Sb&",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": 1,
+          "source": {
+            "u": "Z(SrI1QKhvf;AWc+C1+C",
+            "tt": "Lični faktori",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 7,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":1,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Z(SrI1QKhvf;AWc+C1+C",
+                "t": "Z(SrI1QKhvf;AWc+C1+C",
+                "s": "Xw@tq:&Be!pi8v-A[Sb&",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "VQpW+eTJ)y>)SvZT!>ww",
+          "name": "Lokacija",
+          "type": "choice",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [
+            "Online",
+            "Klub",
+            "Kafić ",
+            "Kladionica",
+            "Ulica"
+          ],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "VQpW+eTJ)y>)SvZT!>ww",
+            "tt": "Lokacija",
+            "hint": "",
+            "type": "ft_str_list",
+            "usg": "NOT_USAGE",
+            "num": 13,
+            "order": 8,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "VQpW+eTJ)y>)SvZT!>ww",
+                "t": "VQpW+eTJ)y>)SvZT!>ww",
+                "s": "{\"sl\":[{\"t\":\"Online\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Klub\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Kafić \",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Kladionica\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Ulica\",\"c\":5,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "Od1GKUrOe%KbE**ZgUBd",
+          "name": "Prethodna verzija",
+          "type": "link",
+          "required": false,
+          "auto": false,
+          "target": ">5Im%[vTqq<+VpG-w0U#",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": 0,
+          "source": {
+            "u": "Od1GKUrOe%KbE**ZgUBd",
+            "tt": "Prethodna verzija",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 24,
+            "order": 9,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Od1GKUrOe%KbE**ZgUBd",
+                "t": "Od1GKUrOe%KbE**ZgUBd",
+                "s": "self",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "SXX*WDQ);wRFcrSpNF@b",
+          "name": "Usko grlo",
+          "type": "link",
+          "required": false,
+          "auto": false,
+          "target": "XRY1eIMuB8V17ru05z#k",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": 0,
+          "source": {
+            "u": "SXX*WDQ);wRFcrSpNF@b",
+            "tt": "Usko grlo",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 25,
+            "order": 10,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "SXX*WDQ);wRFcrSpNF@b",
+                "t": "SXX*WDQ);wRFcrSpNF@b",
+                "s": "XRY1eIMuB8V17ru05z#k",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "MrgJqEV]lPNoxg&ntAy[",
+          "name": "novac (din.)",
+          "type": "integer",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "MrgJqEV]lPNoxg&ntAy[",
+            "tt": "novac (din.)",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 17,
+            "order": 11,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "MrgJqEV]lPNoxg&ntAy[",
+                "t": "MrgJqEV]lPNoxg&ntAy[",
+                "s": ""
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "*U3Rhll]OcXrmWdN2>0#",
+          "name": "efektivno trajanje (sat)",
+          "type": "integer",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "*U3Rhll]OcXrmWdN2>0#",
+            "tt": "efektivno trajanje (sat)",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 22,
+            "order": 12,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "*U3Rhll]OcXrmWdN2>0#",
+                "t": "*U3Rhll]OcXrmWdN2>0#",
+                "s": ""
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "CTQU%-mnYryu-a;!tP(b",
+          "name": "prag prihvatanja",
+          "type": "integer",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "CTQU%-mnYryu-a;!tP(b",
+            "tt": "prag prihvatanja",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 14,
+            "order": 13,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "CTQU%-mnYryu-a;!tP(b",
+                "t": "CTQU%-mnYryu-a;!tP(b",
+                "s": ""
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "D[08b5xtd@ls!8bgETzG",
+          "name": "odluka",
+          "type": "choice",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [
+            "Podrška",
+            "Odbacivanje",
+            "Nema dovoljno dokaza"
+          ],
+          "default": [
+            "Nema dovoljno dokaza"
+          ],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "D[08b5xtd@ls!8bgETzG",
+            "tt": "odluka",
+            "hint": "",
+            "type": "ft_str_list",
+            "usg": "NOT_USAGE",
+            "num": 7,
+            "order": 14,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "D[08b5xtd@ls!8bgETzG",
+                "t": "D[08b5xtd@ls!8bgETzG",
+                "s": "{\"sl\":[{\"t\":\"Podrška\",\"c\":1,\"def\":false,\"c_text\":false,\"children\":[],\"f\":false},{\"t\":\"Odbacivanje\",\"c\":2,\"def\":false,\"c_text\":false,\"children\":[],\"f\":false},{\"t\":\"Nema dovoljno dokaza\",\"c\":3,\"def\":true,\"c_text\":false,\"children\":[],\"f\":false}],\"sort\":false,\"map\":{}}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        }
+      ],
+      "source": {
+        "templates": [
+          {
+            "u": "NlYWTQngKpqS!0dzTEX8",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 10,
+            "order": 0,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "NlYWTQngKpqS!0dzTEX8",
+                "t": "NlYWTQngKpqS!0dzTEX8",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "FOI-Nu:fU[K#cYr9Q@#B",
+            "tt": "naziv",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 11,
+            "order": 1,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "FOI-Nu:fU[K#cYr9Q@#B",
+                "t": "FOI-Nu:fU[K#cYr9Q@#B",
+                "s": "",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "[kXD96faTAnrtyI*vJZf",
+            "tt": "datum početka",
+            "hint": "",
+            "type": "ft_date",
+            "usg": "NOT_USAGE",
+            "num": 6,
+            "order": 2,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"dateTimeFormats\":{},\"startYear\":1900,\"endYear\":2100,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "[kXD96faTAnrtyI*vJZf",
+                "t": "[kXD96faTAnrtyI*vJZf",
+                "s": "",
+                "i": 1
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "X+5oWS2**wz*sgHg]lXS",
+            "tt": "broj pokušaja",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 4,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "X+5oWS2**wz*sgHg]lXS",
+                "t": "X+5oWS2**wz*sgHg]lXS",
+                "s": ""
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "TB%&7L(P;Sipg64h2ZcH",
+            "tt": "konfiguracija",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 8,
+            "order": 5,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"description\":\"Atributi testa koji se ne prate, ali mogu početi da se prate ako se pokažu relevantnim\",\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "TB%&7L(P;Sipg64h2ZcH",
+                "t": "TB%&7L(P;Sipg64h2ZcH",
+                "s": "",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "--#&5#JLvQ3z*OITQD]o",
+            "tt": "min. broj meta",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 26,
+            "order": 5,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "--#&5#JLvQ3z*OITQD]o",
+                "t": "--#&5#JLvQ3z*OITQD]o"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "GUCD<2>]&Ik&Wlu+E8@c",
+            "tt": "ishod",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 18,
+            "order": 6,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "GUCD<2>]&Ik&Wlu+E8@c",
+                "t": "GUCD<2>]&Ik&Wlu+E8@c",
+                "s": "Ura2gbn:jJ&y&Z*8ey*0",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "Z(SrI1QKhvf;AWc+C1+C",
+            "tt": "Lični faktori",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 7,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":1,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Z(SrI1QKhvf;AWc+C1+C",
+                "t": "Z(SrI1QKhvf;AWc+C1+C",
+                "s": "Xw@tq:&Be!pi8v-A[Sb&",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "VQpW+eTJ)y>)SvZT!>ww",
+            "tt": "Lokacija",
+            "hint": "",
+            "type": "ft_str_list",
+            "usg": "NOT_USAGE",
+            "num": 13,
+            "order": 8,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "VQpW+eTJ)y>)SvZT!>ww",
+                "t": "VQpW+eTJ)y>)SvZT!>ww",
+                "s": "{\"sl\":[{\"t\":\"Online\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Klub\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Kafić \",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Kladionica\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Ulica\",\"c\":5,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "Od1GKUrOe%KbE**ZgUBd",
+            "tt": "Prethodna verzija",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 24,
+            "order": 9,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Od1GKUrOe%KbE**ZgUBd",
+                "t": "Od1GKUrOe%KbE**ZgUBd",
+                "s": "self",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "SXX*WDQ);wRFcrSpNF@b",
+            "tt": "Usko grlo",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 25,
+            "order": 10,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "SXX*WDQ);wRFcrSpNF@b",
+                "t": "SXX*WDQ);wRFcrSpNF@b",
+                "s": "XRY1eIMuB8V17ru05z#k",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "MrgJqEV]lPNoxg&ntAy[",
+            "tt": "novac (din.)",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 17,
+            "order": 11,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "MrgJqEV]lPNoxg&ntAy[",
+                "t": "MrgJqEV]lPNoxg&ntAy[",
+                "s": ""
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "*U3Rhll]OcXrmWdN2>0#",
+            "tt": "efektivno trajanje (sat)",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 22,
+            "order": 12,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "*U3Rhll]OcXrmWdN2>0#",
+                "t": "*U3Rhll]OcXrmWdN2>0#",
+                "s": ""
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "CTQU%-mnYryu-a;!tP(b",
+            "tt": "prag prihvatanja",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 14,
+            "order": 13,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "CTQU%-mnYryu-a;!tP(b",
+                "t": "CTQU%-mnYryu-a;!tP(b",
+                "s": ""
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "D[08b5xtd@ls!8bgETzG",
+            "tt": "odluka",
+            "hint": "",
+            "type": "ft_str_list",
+            "usg": "NOT_USAGE",
+            "num": 7,
+            "order": 14,
+            "lib": ">5Im%[vTqq<+VpG-w0U#",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "D[08b5xtd@ls!8bgETzG",
+                "t": "D[08b5xtd@ls!8bgETzG",
+                "s": "{\"sl\":[{\"t\":\"Podrška\",\"c\":1,\"def\":false,\"c_text\":false,\"children\":[],\"f\":false},{\"t\":\"Odbacivanje\",\"c\":2,\"def\":false,\"c_text\":false,\"children\":[],\"f\":false},{\"t\":\"Nema dovoljno dokaza\",\"c\":3,\"def\":true,\"c_text\":false,\"children\":[],\"f\":false}],\"sort\":false,\"map\":{}}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        ],
+        "entry_pages": "{\"pages\":[{\"t\":\"Dizajn\",\"f\":[3,6,10,11,18,2,8,13,24,25,26],\"ml\":[\"\\u003e5Im%[vTqq\\u003c+VpG-w0U#\"],\"inv\":[],\"hide_aggr\":[],\"d\":true,\"hidden\":false},{\"t\":\"Budžet\",\"f\":[17,22],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":false,\"hidden\":false},{\"t\":\"Ulaz\",\"f\":[],\"ml\":[\"MrCZ0vXU9[UKURqJXC)\\u0026\"],\"inv\":[\"MrCZ0vXU9[UKURqJXC)\\u0026\"],\"hide_aggr\":[\"MrCZ0vXU9[UKURqJXC)\\u0026\"],\"d\":false,\"hidden\":false},{\"t\":\"Pravilo odlučivanja\",\"f\":[14],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":false,\"hidden\":false},{\"t\":\"izlaz\",\"f\":[7],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":false,\"hidden\":false}],\"steps\":true,\"name_max_lines\":1,\"desc_max_lines\":2}",
+        "title": "Test—žene",
+        "icon": "flat:folder_blue.png",
+        "version": 26,
+        "triggers": ""
+      }
+    },
+    {
+      "id": "XRY1eIMuB8V17ru05z#k",
+      "name": "Čvor",
+      "fields": [
+        {
+          "id": "<5a*foq&t;*Ao&fYx*vU",
+          "name": "id",
+          "type": "integer",
+          "required": false,
+          "auto": true,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "<5a*foq&t;*Ao&fYx*vU",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 0,
+            "lib": "XRY1eIMuB8V17ru05z#k",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 50,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "<5a*foq&t;*Ao&fYx*vU",
+                "t": "<5a*foq&t;*Ao&fYx*vU",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": true,
+            "readonly": false
+          }
+        },
+        {
+          "id": "DLX(8S>OMHNd6])yXkc#",
+          "name": "redosled",
+          "type": "integer",
+          "required": true,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "DLX(8S>OMHNd6])yXkc#",
+            "tt": "redosled",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 1,
+            "lib": "XRY1eIMuB8V17ru05z#k",
+            "r": true,
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "DLX(8S>OMHNd6])yXkc#",
+                "t": "DLX(8S>OMHNd6])yXkc#"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "[:L>P(1b<CW@WY:fDi3<",
+          "name": "naziv",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "USAGE_IN_TITLE",
+          "relationType": null,
+          "source": {
+            "u": "[:L>P(1b<CW@WY:fDi3<",
+            "tt": "naziv",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 2,
+            "lib": "XRY1eIMuB8V17ru05z#k",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 150,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "[:L>P(1b<CW@WY:fDi3<",
+                "t": "[:L>P(1b<CW@WY:fDi3<",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "%lPjq*rqSJ5d+g]O!EKL",
+          "name": "Ishod",
+          "type": "link",
+          "required": false,
+          "auto": false,
+          "target": "Ura2gbn:jJ&y&Z*8ey*0",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": 1,
+          "source": {
+            "u": "%lPjq*rqSJ5d+g]O!EKL",
+            "tt": "Ishod",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 3,
+            "lib": "XRY1eIMuB8V17ru05z#k",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 50,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":1,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "%lPjq*rqSJ5d+g]O!EKL",
+                "t": "%lPjq*rqSJ5d+g]O!EKL",
+                "s": "Ura2gbn:jJ&y&Z*8ey*0"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        }
+      ],
+      "source": {
+        "templates": [
+          {
+            "u": "<5a*foq&t;*Ao&fYx*vU",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 0,
+            "lib": "XRY1eIMuB8V17ru05z#k",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 50,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "<5a*foq&t;*Ao&fYx*vU",
+                "t": "<5a*foq&t;*Ao&fYx*vU",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": true,
+            "readonly": false
+          },
+          {
+            "u": "DLX(8S>OMHNd6])yXkc#",
+            "tt": "redosled",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 1,
+            "lib": "XRY1eIMuB8V17ru05z#k",
+            "r": true,
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "DLX(8S>OMHNd6])yXkc#",
+                "t": "DLX(8S>OMHNd6])yXkc#"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "[:L>P(1b<CW@WY:fDi3<",
+            "tt": "naziv",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 2,
+            "lib": "XRY1eIMuB8V17ru05z#k",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 150,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "[:L>P(1b<CW@WY:fDi3<",
+                "t": "[:L>P(1b<CW@WY:fDi3<",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "%lPjq*rqSJ5d+g]O!EKL",
+            "tt": "Ishod",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 3,
+            "lib": "XRY1eIMuB8V17ru05z#k",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 50,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":1,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "%lPjq*rqSJ5d+g]O!EKL",
+                "t": "%lPjq*rqSJ5d+g]O!EKL",
+                "s": "Ura2gbn:jJ&y&Z*8ey*0"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        ],
+        "entry_pages": "{\"pages\":[{\"t\":\"def_page_title\",\"f\":[0,1,2,3],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":true,\"hidden\":false}],\"steps\":false,\"name_max_lines\":1,\"desc_max_lines\":2}",
+        "title": "Čvor",
+        "icon": "flat:folder_blue.png",
+        "version": 26,
+        "triggers": ""
+      }
+    },
+    {
+      "id": "[Aivyxd;R-QYWDM))M(u",
+      "name": "Meta",
+      "fields": [
+        {
+          "id": "GwGM#r*@ZDea+:f9dV+y",
+          "name": "id",
+          "type": "integer",
+          "required": false,
+          "auto": true,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "GwGM#r*@ZDea+:f9dV+y",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 0,
+            "lib": "[Aivyxd;R-QYWDM))M(u",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "GwGM#r*@ZDea+:f9dV+y",
+                "t": "GwGM#r*@ZDea+:f9dV+y",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "&vd<&b2oq)]ltl*P7j8M",
+          "name": "ime ili nadimak",
+          "type": "text",
+          "required": true,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "USAGE_IN_TITLE",
+          "relationType": null,
+          "source": {
+            "u": "&vd<&b2oq)]ltl*P7j8M",
+            "tt": "ime ili nadimak",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 1,
+            "lib": "[Aivyxd;R-QYWDM))M(u",
+            "r": true,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "&vd<&b2oq)]ltl*P7j8M",
+                "t": "&vd<&b2oq)]ltl*P7j8M",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        }
+      ],
+      "source": {
+        "templates": [
+          {
+            "u": "GwGM#r*@ZDea+:f9dV+y",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 0,
+            "lib": "[Aivyxd;R-QYWDM))M(u",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "GwGM#r*@ZDea+:f9dV+y",
+                "t": "GwGM#r*@ZDea+:f9dV+y",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "&vd<&b2oq)]ltl*P7j8M",
+            "tt": "ime ili nadimak",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 1,
+            "lib": "[Aivyxd;R-QYWDM))M(u",
+            "r": true,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "&vd<&b2oq)]ltl*P7j8M",
+                "t": "&vd<&b2oq)]ltl*P7j8M",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        ],
+        "entry_pages": "{\"pages\":[{\"t\":\"def_page_title\",\"f\":[0,1],\"ml\":[\"MrCZ0vXU9[UKURqJXC)\\u0026\"],\"inv\":[],\"hide_aggr\":[],\"d\":true,\"hidden\":false}],\"steps\":false,\"name_max_lines\":1,\"desc_max_lines\":2}",
+        "title": "Meta",
+        "icon": "flat:folder_blue.png",
+        "version": 26,
+        "triggers": ""
+      }
+    },
+    {
+      "id": "(VJ0ao[*!kWPcpwS5N1r",
+      "name": "Problem—ponuda",
+      "fields": [
+        {
+          "id": "XvY*QhmAyAi]D!5D&9dq",
+          "name": "id",
+          "type": "integer",
+          "required": true,
+          "auto": true,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "XvY*QhmAyAi]D!5D&9dq",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 0,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": true,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"displayConvertUnitButton\":false,\"groupSeparator\":false,\"incDelta\":1.0,\"showCalc\":false,\"colSpan\":1,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "XvY*QhmAyAi]D!5D&9dq",
+                "t": "XvY*QhmAyAi]D!5D&9dq",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": true,
+            "readonly": false
+          }
+        },
+        {
+          "id": "<<UTg1@nzKGbM5Z4!D4c",
+          "name": "Verzija",
+          "type": "integer",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "<<UTg1@nzKGbM5Z4!D4c",
+            "tt": "Verzija",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 32,
+            "order": 1,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"displayConvertUnitButton\":false,\"groupSeparator\":false,\"incDelta\":1.0,\"showCalc\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "<<UTg1@nzKGbM5Z4!D4c",
+                "t": "<<UTg1@nzKGbM5Z4!D4c"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "Vk%IE+VoRsIU&&C6DPeP",
+          "name": "Naziv",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "USAGE_IN_TITLE",
+          "relationType": null,
+          "source": {
+            "u": "Vk%IE+VoRsIU&&C6DPeP",
+            "tt": "Naziv",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 2,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "Vk%IE+VoRsIU&&C6DPeP",
+                "t": "Vk%IE+VoRsIU&&C6DPeP",
+                "s": ""
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "OJh[i)5BpXXidS7JC(m%",
+          "name": "Datum kreiranja",
+          "type": "date",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "OJh[i)5BpXXidS7JC(m%",
+            "tt": "Datum kreiranja",
+            "hint": "",
+            "type": "ft_date",
+            "usg": "NOT_USAGE",
+            "num": 15,
+            "order": 3,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"dateTimeFormats\":{},\"endYear\":2100,\"startYear\":1900,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "OJh[i)5BpXXidS7JC(m%",
+                "t": "OJh[i)5BpXXidS7JC(m%",
+                "i": 1
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": ">bJPmmLwVoO:h>vIo&K2",
+          "name": "Nastalo iz",
+          "type": "link",
+          "required": false,
+          "auto": false,
+          "target": "(VJ0ao[*!kWPcpwS5N1r",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": 0,
+          "source": {
+            "u": ">bJPmmLwVoO:h>vIo&K2",
+            "tt": "Nastalo iz",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 4,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"relationType\":0,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": ">bJPmmLwVoO:h>vIo&K2",
+                "t": ">bJPmmLwVoO:h>vIo&K2",
+                "s": "self",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "*4FQKmY[S1#PkfBj)KtH",
+          "name": "Šta je promenjeno?",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "*4FQKmY[S1#PkfBj)KtH",
+            "tt": "Šta je promenjeno?",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 4,
+            "order": 5,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "*4FQKmY[S1#PkfBj)KtH",
+                "t": "*4FQKmY[S1#PkfBj)KtH",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "PQpbU4>9Wev6>X&u3+at",
+          "name": "Kupac",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "PQpbU4>9Wev6>X&u3+at",
+            "tt": "Kupac",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 5,
+            "order": 6,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "PQpbU4>9Wev6>X&u3+at",
+                "t": "PQpbU4>9Wev6>X&u3+at",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "WRuV6e3uD8tIYS44V5%A",
+          "name": "Korisnik",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "WRuV6e3uD8tIYS44V5%A",
+            "tt": "Korisnik",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 6,
+            "order": 7,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "WRuV6e3uD8tIYS44V5%A",
+                "t": "WRuV6e3uD8tIYS44V5%A",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "-7o(+pP1>2LP!wsuelE#",
+          "name": "Klasa problema",
+          "type": "choice",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [
+            "Prevelik trošak",
+            "Previše vremena ili rada",
+            "Propušten prihod",
+            "Nedostupan rezultat",
+            "Loš rezultat",
+            "Nedostupna informacija",
+            "Rizik ili neizvesnost",
+            "Neprijatnost ili status",
+            "Obaveza",
+            "Pouzdanost",
+            "Koordinacija izvora/alata",
+            "Drugo"
+          ],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "-7o(+pP1>2LP!wsuelE#",
+            "tt": "Klasa problema",
+            "hint": "",
+            "type": "ft_str_list",
+            "usg": "NOT_USAGE",
+            "num": 8,
+            "order": 8,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "-7o(+pP1>2LP!wsuelE#",
+                "t": "-7o(+pP1>2LP!wsuelE#",
+                "s": "{\"sl\":[{\"t\":\"Prevelik trošak\",\"c\":1,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Previše vremena ili rada\",\"c\":2,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Propušten prihod\",\"c\":3,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Nedostupan rezultat\",\"c\":5,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Loš rezultat\",\"c\":4,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Nedostupna informacija\",\"c\":10,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Rizik ili neizvesnost\",\"c\":6,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Neprijatnost ili status\",\"c\":7,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Obaveza\",\"c\":8,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Pouzdanost\",\"c\":9,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Koordinacija izvora\\/alata\",\"c\":11,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":12,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "W(Tm3zdgaeSpMFMIfHi;",
+          "name": "Opis problema",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "Kada [situacija], [ko] mora/ne može/gubi [konkretna posledica]",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "W(Tm3zdgaeSpMFMIfHi;",
+            "tt": "Opis problema",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 7,
+            "order": 9,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"description\":\"Kada [situacija], [ko] mora/ne može/gubi [konkretna posledica]\",\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "W(Tm3zdgaeSpMFMIfHi;",
+                "t": "W(Tm3zdgaeSpMFMIfHi;",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "Uo;<YIHu<j@Boz8a(6n1",
+          "name": "Klasa dokaza problema",
+          "type": "multichoice",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [
+            "Postojeće plaćanje (analognog) rešenja",
+            "Žalbe i recenzije",
+            "Direktna izjava kupca",
+            "Posmatrano neefikasno ili zaobilazno ponašanje",
+            "Postojanje improvizovanog rešenja",
+            "Postojeća konkurencije koja rešava isti problem",
+            "Sopstveno iskustvo ili podaci",
+            "Drugo"
+          ],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "Uo;<YIHu<j@Boz8a(6n1",
+            "tt": "Klasa dokaza problema",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 16,
+            "order": 10,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "Uo;<YIHu<j@Boz8a(6n1",
+                "t": "Uo;<YIHu<j@Boz8a(6n1",
+                "s": "{\"sl\":[{\"t\":\"Postojeće plaćanje (analognog) rešenja\",\"c\":1,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Žalbe i recenzije\",\"c\":4,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Direktna izjava kupca\",\"c\":5,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Posmatrano neefikasno ili zaobilazno ponašanje\",\"c\":6,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Postojanje improvizovanog rešenja\",\"c\":7,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Postojeća konkurencije koja rešava isti problem\",\"c\":8,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Sopstveno iskustvo ili podaci\",\"c\":10,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":9,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "SWA)pyFws[6*oAYv5RqY",
+          "name": "Dokazi problema",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "SWA)pyFws[6*oAYv5RqY",
+            "tt": "Dokazi problema",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 10,
+            "order": 11,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "SWA)pyFws[6*oAYv5RqY",
+                "t": "SWA)pyFws[6*oAYv5RqY",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "!+MlQ-:*O+dg1OD]YYi(",
+          "name": "Sadašnje rešenje",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "!+MlQ-:*O+dg1OD]YYi(",
+            "tt": "Sadašnje rešenje",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 9,
+            "order": 12,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "!+MlQ-:*O+dg1OD]YYi(",
+                "t": "!+MlQ-:*O+dg1OD]YYi(",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "QTcGVO07eDmlIg)-cOgn",
+          "name": "Trošak sadašnjeg rešenja/nerešavanja",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "QTcGVO07eDmlIg)-cOgn",
+            "tt": "Trošak sadašnjeg rešenja/nerešavanja",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 11,
+            "order": 13,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "QTcGVO07eDmlIg)-cOgn",
+                "t": "QTcGVO07eDmlIg)-cOgn",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "NJEF*1A8a-IFx8<*r3OU",
+          "name": "Broj dostupnih kupaca",
+          "type": "choice",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [
+            "nepoznato",
+            "manje od 10",
+            "10-49",
+            "50-199",
+            "200-999",
+            "1000+"
+          ],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "NJEF*1A8a-IFx8<*r3OU",
+            "tt": "Broj dostupnih kupaca",
+            "hint": "",
+            "type": "ft_str_list",
+            "usg": "NOT_USAGE",
+            "num": 12,
+            "order": 14,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "NJEF*1A8a-IFx8<*r3OU",
+                "t": "NJEF*1A8a-IFx8<*r3OU",
+                "s": "{\"sl\":[{\"t\":\"nepoznato\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"manje od 10\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"10-49\",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"50-199\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"200-999\",\"c\":5,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"1000+\",\"c\":6,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "LuzTCrqZjE[0:qg!x@xl",
+          "name": "Mogući kanali",
+          "type": "multichoice",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [
+            "Specijalizovani forumi",
+            "Direktna poruka",
+            "SEO / organski sadržaj",
+            "Postojeći kontakti i preporuke",
+            "Događaji ili fizička mesta",
+            "Društvene mreže",
+            "Plaćeni oglasi",
+            "Partneri ili posrednici",
+            "Marketplace ili platforma",
+            "Postojeći saobraćaj ili publika",
+            "Drugo"
+          ],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "LuzTCrqZjE[0:qg!x@xl",
+            "tt": "Mogući kanali",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 33,
+            "order": 15,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "LuzTCrqZjE[0:qg!x@xl",
+                "t": "LuzTCrqZjE[0:qg!x@xl",
+                "s": "{\"sl\":[{\"t\":\"Specijalizovani forumi\",\"c\":2,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Direktna poruka\",\"c\":6,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"SEO \\/ organski sadržaj\",\"c\":8,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Postojeći kontakti i preporuke\",\"c\":10,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Događaji ili fizička mesta\",\"c\":11,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Društvene mreže\",\"c\":12,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Plaćeni oglasi\",\"c\":13,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Partneri ili posrednici\",\"c\":14,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Marketplace ili platforma\",\"c\":15,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Postojeći saobraćaj ili publika\",\"c\":16,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":9,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "(yD!Kjl%bkVl*&)CLbj%",
+          "name": "Obećani rezultat",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "(yD!Kjl%bkVl*&)CLbj%",
+            "tt": "Obećani rezultat",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 14,
+            "order": 16,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "(yD!Kjl%bkVl*&)CLbj%",
+                "t": "(yD!Kjl%bkVl*&)CLbj%",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": ">u6ly0*;b1H)3*n<u-I0",
+          "name": "Kako proizvodim rezultat?",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": ">u6ly0*;b1H)3*n<u-I0",
+            "tt": "Kako proizvodim rezultat?",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 17,
+            "order": 17,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": ">u6ly0*;b1H)3*n<u-I0",
+                "t": ">u6ly0*;b1H)3*n<u-I0",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "%vz8E[Y-]1y[]isNO[h5",
+          "name": "Dokaz da rešenje radi",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "%vz8E[Y-]1y[]isNO[h5",
+            "tt": "Dokaz da rešenje radi",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 26,
+            "order": 18,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "%vz8E[Y-]1y[]isNO[h5",
+                "t": "%vz8E[Y-]1y[]isNO[h5",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "W1)-TPYQ;*cWZ-::!<X2",
+          "name": "Zašto ovaj model ulazi u KP?",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "Kako se isporuka skalira ili ponavlja?\nZašto prihod nije prosta prodaja vremena?",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "W1)-TPYQ;*cWZ-::!<X2",
+            "tt": "Zašto ovaj model ulazi u KP?",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 34,
+            "order": 19,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"description\":\"Kako se isporuka skalira ili ponavlja?\\nZašto prihod nije prosta prodaja vremena?\",\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "W1)-TPYQ;*cWZ-::!<X2",
+                "t": "W1)-TPYQ;*cWZ-::!<X2",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "NXV87)tIrCFo];<4o)em",
+          "name": "Šta kupac dobija, a šta ne?",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "NXV87)tIrCFo];<4o)em",
+            "tt": "Šta kupac dobija, a šta ne?",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 20,
+            "order": 20,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "NXV87)tIrCFo];<4o)em",
+                "t": "NXV87)tIrCFo];<4o)em",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "Q@WQCT9JO)l;6Zz8%pQv",
+          "name": "Cena jedne prodaje (€)",
+          "type": "integer",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "Q@WQCT9JO)l;6Zz8%pQv",
+            "tt": "Cena jedne prodaje (€)",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 22,
+            "order": 21,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"displayConvertUnitButton\":false,\"groupSeparator\":false,\"incDelta\":1.0,\"showCalc\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "Q@WQCT9JO)l;6Zz8%pQv",
+                "t": "Q@WQCT9JO)l;6Zz8%pQv"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "I5%9xr2I7]Z4I%KwrcAy",
+          "name": "Rok",
+          "type": "integer",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "I5%9xr2I7]Z4I%KwrcAy",
+            "tt": "Rok",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 23,
+            "order": 22,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"customUnit\":\"\",\"displayConvertUnitButton\":false,\"groupSeparator\":false,\"incDelta\":1.0,\"showCalc\":false,\"unit\":\"DAY\",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "I5%9xr2I7]Z4I%KwrcAy",
+                "t": "I5%9xr2I7]Z4I%KwrcAy"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "<5R<O5Vb4l7y1>PgFB*6",
+          "name": "Razlog za prelazak sa sadašnjeg rešenja",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "<5R<O5Vb4l7y1>PgFB*6",
+            "tt": "Razlog za prelazak sa sadašnjeg rešenja",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 25,
+            "order": 23,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "<5R<O5Vb4l7y1>PgFB*6",
+                "t": "<5R<O5Vb4l7y1>PgFB*6",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "S(f+XtRdRT86BPV5YEZH",
+          "name": "Način isporuke",
+          "type": "multichoice",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [
+            "Fajl / dokument",
+            "Email / poruka",
+            "Pristup sajtu / aplikaciji",
+            "API / data feed",
+            "Obuka / materijali",
+            "Instalacija / integracija",
+            "Poziv / sastanak",
+            "Rad u sistemu kupca",
+            "Lično"
+          ],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "S(f+XtRdRT86BPV5YEZH",
+            "tt": "Način isporuke",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 35,
+            "order": 24,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "S(f+XtRdRT86BPV5YEZH",
+                "t": "S(f+XtRdRT86BPV5YEZH",
+                "s": "{\"sl\":[{\"t\":\"Fajl \\/ dokument\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Email \\/ poruka\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Pristup sajtu \\/ aplikaciji\",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"API \\/ data feed\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Obuka \\/ materijali\",\"c\":7,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Instalacija \\/ integracija\",\"c\":5,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Poziv \\/ sastanak\",\"c\":8,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Rad u sistemu kupca\",\"c\":9,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Lično\",\"c\":6,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "+th@8g27O+pqj;SJ*#u+",
+          "name": "Način prihvatanja",
+          "type": "multichoice",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [
+            "Potvrđena narudžbina na sajtu / platformi",
+            "Poslat obrazac za naručivanje",
+            "Pisano prihvatanje",
+            "Verbalno prihvatanje",
+            "Potpisan ugovor",
+            "Prihvaćen predračun / formalna ponuda",
+            "Zakazan termin",
+            "Drugo"
+          ],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "+th@8g27O+pqj;SJ*#u+",
+            "tt": "Način prihvatanja",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 28,
+            "order": 25,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "+th@8g27O+pqj;SJ*#u+",
+                "t": "+th@8g27O+pqj;SJ*#u+",
+                "s": "{\"sl\":[{\"t\":\"Potvrđena narudžbina na sajtu \\/ platformi\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Poslat obrazac za naručivanje\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Pisano prihvatanje\",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Verbalno prihvatanje\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Potpisan ugovor\",\"c\":5,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Prihvaćen predračun \\/ formalna ponuda\",\"c\":6,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Zakazan termin\",\"c\":7,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":8,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "<g%q*E+Y*7dM3yUGw>EZ",
+          "name": "Način plaćanja",
+          "type": "multichoice",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [
+            "Uplata na račun",
+            "Platna kartica",
+            "Online servis za plaćanje",
+            "Plaćanje preko platforme",
+            "Gotovina",
+            "Kriptovaluta",
+            "Drugo"
+          ],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "<g%q*E+Y*7dM3yUGw>EZ",
+            "tt": "Način plaćanja",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 29,
+            "order": 26,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "<g%q*E+Y*7dM3yUGw>EZ",
+                "t": "<g%q*E+Y*7dM3yUGw>EZ",
+                "s": "{\"sl\":[{\"t\":\"Uplata na račun\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Platna kartica\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Online servis za plaćanje\",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Plaćanje preko platforme\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Gotovina\",\"c\":5,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Kriptovaluta\",\"c\":6,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":7,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "*)hZ&&S+@>8FJgzKA!Ta",
+          "name": "Smanjenje rizika",
+          "type": "multichoice",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [
+            "Manji početni paket",
+            "Probni period",
+            "Pilot",
+            "Plaćanje po rezultatu",
+            "Plaćanje po fazama",
+            "Plaćanje nakon isporuke",
+            "Povraćaj novca",
+            "Otkazivanje bez obaveze",
+            "Fiksna cena / gornja granica",
+            "Zaštita preko platforme / escrow",
+            "Besplatna dorada ako uslovi nisu ispunjeni",
+            "Drugo"
+          ],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "*)hZ&&S+@>8FJgzKA!Ta",
+            "tt": "Smanjenje rizika",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 30,
+            "order": 27,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "*)hZ&&S+@>8FJgzKA!Ta",
+                "t": "*)hZ&&S+@>8FJgzKA!Ta",
+                "s": "{\"sl\":[{\"t\":\"Manji početni paket\",\"c\":1,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Probni period\",\"c\":2,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Pilot\",\"c\":3,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Plaćanje po rezultatu\",\"c\":6,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Plaćanje po fazama\",\"c\":4,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Plaćanje nakon isporuke\",\"c\":5,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Povraćaj novca\",\"c\":7,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Otkazivanje bez obaveze\",\"c\":8,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Fiksna cena \\/ gornja granica\",\"c\":9,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Zaštita preko platforme \\/ escrow\",\"c\":10,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Besplatna dorada ako uslovi nisu ispunjeni\",\"c\":11,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":12,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        }
+      ],
+      "source": {
+        "templates": [
+          {
+            "u": "XvY*QhmAyAi]D!5D&9dq",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 0,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": true,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"displayConvertUnitButton\":false,\"groupSeparator\":false,\"incDelta\":1.0,\"showCalc\":false,\"colSpan\":1,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "XvY*QhmAyAi]D!5D&9dq",
+                "t": "XvY*QhmAyAi]D!5D&9dq",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": true,
+            "readonly": false
+          },
+          {
+            "u": "<<UTg1@nzKGbM5Z4!D4c",
+            "tt": "Verzija",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 32,
+            "order": 1,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"displayConvertUnitButton\":false,\"groupSeparator\":false,\"incDelta\":1.0,\"showCalc\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "<<UTg1@nzKGbM5Z4!D4c",
+                "t": "<<UTg1@nzKGbM5Z4!D4c"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "Vk%IE+VoRsIU&&C6DPeP",
+            "tt": "Naziv",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 2,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "Vk%IE+VoRsIU&&C6DPeP",
+                "t": "Vk%IE+VoRsIU&&C6DPeP",
+                "s": ""
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "OJh[i)5BpXXidS7JC(m%",
+            "tt": "Datum kreiranja",
+            "hint": "",
+            "type": "ft_date",
+            "usg": "NOT_USAGE",
+            "num": 15,
+            "order": 3,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"dateTimeFormats\":{},\"endYear\":2100,\"startYear\":1900,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "OJh[i)5BpXXidS7JC(m%",
+                "t": "OJh[i)5BpXXidS7JC(m%",
+                "i": 1
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": ">bJPmmLwVoO:h>vIo&K2",
+            "tt": "Nastalo iz",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 4,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"relationType\":0,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": ">bJPmmLwVoO:h>vIo&K2",
+                "t": ">bJPmmLwVoO:h>vIo&K2",
+                "s": "self",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "*4FQKmY[S1#PkfBj)KtH",
+            "tt": "Šta je promenjeno?",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 4,
+            "order": 5,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "*4FQKmY[S1#PkfBj)KtH",
+                "t": "*4FQKmY[S1#PkfBj)KtH",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "PQpbU4>9Wev6>X&u3+at",
+            "tt": "Kupac",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 5,
+            "order": 6,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "PQpbU4>9Wev6>X&u3+at",
+                "t": "PQpbU4>9Wev6>X&u3+at",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "WRuV6e3uD8tIYS44V5%A",
+            "tt": "Korisnik",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 6,
+            "order": 7,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "WRuV6e3uD8tIYS44V5%A",
+                "t": "WRuV6e3uD8tIYS44V5%A",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "-7o(+pP1>2LP!wsuelE#",
+            "tt": "Klasa problema",
+            "hint": "",
+            "type": "ft_str_list",
+            "usg": "NOT_USAGE",
+            "num": 8,
+            "order": 8,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "-7o(+pP1>2LP!wsuelE#",
+                "t": "-7o(+pP1>2LP!wsuelE#",
+                "s": "{\"sl\":[{\"t\":\"Prevelik trošak\",\"c\":1,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Previše vremena ili rada\",\"c\":2,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Propušten prihod\",\"c\":3,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Nedostupan rezultat\",\"c\":5,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Loš rezultat\",\"c\":4,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Nedostupna informacija\",\"c\":10,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Rizik ili neizvesnost\",\"c\":6,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Neprijatnost ili status\",\"c\":7,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Obaveza\",\"c\":8,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Pouzdanost\",\"c\":9,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Koordinacija izvora\\/alata\",\"c\":11,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":12,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "W(Tm3zdgaeSpMFMIfHi;",
+            "tt": "Opis problema",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 7,
+            "order": 9,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"description\":\"Kada [situacija], [ko] mora/ne može/gubi [konkretna posledica]\",\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "W(Tm3zdgaeSpMFMIfHi;",
+                "t": "W(Tm3zdgaeSpMFMIfHi;",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "Uo;<YIHu<j@Boz8a(6n1",
+            "tt": "Klasa dokaza problema",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 16,
+            "order": 10,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "Uo;<YIHu<j@Boz8a(6n1",
+                "t": "Uo;<YIHu<j@Boz8a(6n1",
+                "s": "{\"sl\":[{\"t\":\"Postojeće plaćanje (analognog) rešenja\",\"c\":1,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Žalbe i recenzije\",\"c\":4,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Direktna izjava kupca\",\"c\":5,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Posmatrano neefikasno ili zaobilazno ponašanje\",\"c\":6,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Postojanje improvizovanog rešenja\",\"c\":7,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Postojeća konkurencije koja rešava isti problem\",\"c\":8,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Sopstveno iskustvo ili podaci\",\"c\":10,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":9,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "SWA)pyFws[6*oAYv5RqY",
+            "tt": "Dokazi problema",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 10,
+            "order": 11,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "SWA)pyFws[6*oAYv5RqY",
+                "t": "SWA)pyFws[6*oAYv5RqY",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "!+MlQ-:*O+dg1OD]YYi(",
+            "tt": "Sadašnje rešenje",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 9,
+            "order": 12,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "!+MlQ-:*O+dg1OD]YYi(",
+                "t": "!+MlQ-:*O+dg1OD]YYi(",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "QTcGVO07eDmlIg)-cOgn",
+            "tt": "Trošak sadašnjeg rešenja/nerešavanja",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 11,
+            "order": 13,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "QTcGVO07eDmlIg)-cOgn",
+                "t": "QTcGVO07eDmlIg)-cOgn",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "NJEF*1A8a-IFx8<*r3OU",
+            "tt": "Broj dostupnih kupaca",
+            "hint": "",
+            "type": "ft_str_list",
+            "usg": "NOT_USAGE",
+            "num": 12,
+            "order": 14,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "NJEF*1A8a-IFx8<*r3OU",
+                "t": "NJEF*1A8a-IFx8<*r3OU",
+                "s": "{\"sl\":[{\"t\":\"nepoznato\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"manje od 10\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"10-49\",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"50-199\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"200-999\",\"c\":5,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"1000+\",\"c\":6,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "LuzTCrqZjE[0:qg!x@xl",
+            "tt": "Mogući kanali",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 33,
+            "order": 15,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "LuzTCrqZjE[0:qg!x@xl",
+                "t": "LuzTCrqZjE[0:qg!x@xl",
+                "s": "{\"sl\":[{\"t\":\"Specijalizovani forumi\",\"c\":2,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Direktna poruka\",\"c\":6,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"SEO \\/ organski sadržaj\",\"c\":8,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Postojeći kontakti i preporuke\",\"c\":10,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Događaji ili fizička mesta\",\"c\":11,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Društvene mreže\",\"c\":12,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Plaćeni oglasi\",\"c\":13,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Partneri ili posrednici\",\"c\":14,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Marketplace ili platforma\",\"c\":15,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Postojeći saobraćaj ili publika\",\"c\":16,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":9,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "(yD!Kjl%bkVl*&)CLbj%",
+            "tt": "Obećani rezultat",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 14,
+            "order": 16,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "(yD!Kjl%bkVl*&)CLbj%",
+                "t": "(yD!Kjl%bkVl*&)CLbj%",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": ">u6ly0*;b1H)3*n<u-I0",
+            "tt": "Kako proizvodim rezultat?",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 17,
+            "order": 17,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": ">u6ly0*;b1H)3*n<u-I0",
+                "t": ">u6ly0*;b1H)3*n<u-I0",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "%vz8E[Y-]1y[]isNO[h5",
+            "tt": "Dokaz da rešenje radi",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 26,
+            "order": 18,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "%vz8E[Y-]1y[]isNO[h5",
+                "t": "%vz8E[Y-]1y[]isNO[h5",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "W1)-TPYQ;*cWZ-::!<X2",
+            "tt": "Zašto ovaj model ulazi u KP?",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 34,
+            "order": 19,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"description\":\"Kako se isporuka skalira ili ponavlja?\\nZašto prihod nije prosta prodaja vremena?\",\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "W1)-TPYQ;*cWZ-::!<X2",
+                "t": "W1)-TPYQ;*cWZ-::!<X2",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "NXV87)tIrCFo];<4o)em",
+            "tt": "Šta kupac dobija, a šta ne?",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 20,
+            "order": 20,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "NXV87)tIrCFo];<4o)em",
+                "t": "NXV87)tIrCFo];<4o)em",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "Q@WQCT9JO)l;6Zz8%pQv",
+            "tt": "Cena jedne prodaje (€)",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 22,
+            "order": 21,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"displayConvertUnitButton\":false,\"groupSeparator\":false,\"incDelta\":1.0,\"showCalc\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "Q@WQCT9JO)l;6Zz8%pQv",
+                "t": "Q@WQCT9JO)l;6Zz8%pQv"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "I5%9xr2I7]Z4I%KwrcAy",
+            "tt": "Rok",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 23,
+            "order": 22,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"customUnit\":\"\",\"displayConvertUnitButton\":false,\"groupSeparator\":false,\"incDelta\":1.0,\"showCalc\":false,\"unit\":\"DAY\",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "I5%9xr2I7]Z4I%KwrcAy",
+                "t": "I5%9xr2I7]Z4I%KwrcAy"
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "<5R<O5Vb4l7y1>PgFB*6",
+            "tt": "Razlog za prelazak sa sadašnjeg rešenja",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 25,
+            "order": 23,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"naturalOrder\":false,\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "<5R<O5Vb4l7y1>PgFB*6",
+                "t": "<5R<O5Vb4l7y1>PgFB*6",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "S(f+XtRdRT86BPV5YEZH",
+            "tt": "Način isporuke",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 35,
+            "order": 24,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "S(f+XtRdRT86BPV5YEZH",
+                "t": "S(f+XtRdRT86BPV5YEZH",
+                "s": "{\"sl\":[{\"t\":\"Fajl \\/ dokument\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Email \\/ poruka\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Pristup sajtu \\/ aplikaciji\",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"API \\/ data feed\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Obuka \\/ materijali\",\"c\":7,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Instalacija \\/ integracija\",\"c\":5,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Poziv \\/ sastanak\",\"c\":8,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Rad u sistemu kupca\",\"c\":9,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Lično\",\"c\":6,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "+th@8g27O+pqj;SJ*#u+",
+            "tt": "Način prihvatanja",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 28,
+            "order": 25,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "+th@8g27O+pqj;SJ*#u+",
+                "t": "+th@8g27O+pqj;SJ*#u+",
+                "s": "{\"sl\":[{\"t\":\"Potvrđena narudžbina na sajtu \\/ platformi\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Poslat obrazac za naručivanje\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Pisano prihvatanje\",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Verbalno prihvatanje\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Potpisan ugovor\",\"c\":5,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Prihvaćen predračun \\/ formalna ponuda\",\"c\":6,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Zakazan termin\",\"c\":7,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":8,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "<g%q*E+Y*7dM3yUGw>EZ",
+            "tt": "Način plaćanja",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 29,
+            "order": 26,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "<g%q*E+Y*7dM3yUGw>EZ",
+                "t": "<g%q*E+Y*7dM3yUGw>EZ",
+                "s": "{\"sl\":[{\"t\":\"Uplata na račun\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Platna kartica\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Online servis za plaćanje\",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Plaćanje preko platforme\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Gotovina\",\"c\":5,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Kriptovaluta\",\"c\":6,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":7,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "*)hZ&&S+@>8FJgzKA!Ta",
+            "tt": "Smanjenje rizika",
+            "hint": "",
+            "type": "ft_multy_str_list",
+            "usg": "NOT_USAGE",
+            "num": 30,
+            "order": 27,
+            "lib": "(VJ0ao[*!kWPcpwS5N1r",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"delimiter\":\", \",\"colSpan\":1,\"descriptionPos\":17,\"directEdit\":0,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "cnt": [
+              {
+                "o": "*)hZ&&S+@>8FJgzKA!Ta",
+                "t": "*)hZ&&S+@>8FJgzKA!Ta",
+                "s": "{\"sl\":[{\"t\":\"Manji početni paket\",\"c\":1,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Probni period\",\"c\":2,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Pilot\",\"c\":3,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Plaćanje po rezultatu\",\"c\":6,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Plaćanje po fazama\",\"c\":4,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Plaćanje nakon isporuke\",\"c\":5,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Povraćaj novca\",\"c\":7,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Otkazivanje bez obaveze\",\"c\":8,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Fiksna cena \\/ gornja granica\",\"c\":9,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Zaštita preko platforme \\/ escrow\",\"c\":10,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Besplatna dorada ako uslovi nisu ispunjeni\",\"c\":11,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Drugo\",\"c\":12,\"i\":\"\",\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        ],
+        "entry_pages": "{\"pages\":[{\"t\":\"Identitet\",\"f\":[1,2,3,4,15,32],\"ml\":[\"\\u003e5Im%[vTqq\\u003c+VpG-w0U#\",\"(VJ0ao[*!kWPcpwS5N1r\"],\"inv\":[],\"hide_aggr\":[],\"d\":true,\"hidden\":false},{\"t\":\"Problem\",\"f\":[5,6,7,8,9,10,11,16],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":false,\"hidden\":false},{\"t\":\"Dostupnost kupaca\",\"f\":[12,33],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":false,\"hidden\":false},{\"t\":\"Rešenje\",\"f\":[14,17,26],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":false,\"hidden\":false},{\"t\":\"Model\",\"f\":[34],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":false,\"hidden\":false},{\"t\":\"Ponuda\",\"f\":[20,22,23,25,35],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":false,\"hidden\":false},{\"t\":\"Kupovina\",\"f\":[28,29,30],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":false,\"hidden\":false}],\"steps\":false,\"name_max_lines\":1,\"desc_max_lines\":2}",
+        "title": "Problem—ponuda",
+        "icon": "flat:folder_blue.png",
+        "version": 26,
+        "triggers": ""
+      }
+    },
+    {
+      "id": "Ura2gbn:jJ&y&Z*8ey*0",
+      "name": "Ishod",
+      "fields": [
+        {
+          "id": "Mm0O)Dm-iTa<8e2KKYn%",
+          "name": "id",
+          "type": "integer",
+          "required": false,
+          "auto": true,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "Mm0O)Dm-iTa<8e2KKYn%",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 0,
+            "lib": "Ura2gbn:jJ&y&Z*8ey*0",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 50,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Mm0O)Dm-iTa<8e2KKYn%",
+                "t": "Mm0O)Dm-iTa<8e2KKYn%",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "Fqs&c&c;3es5fd49)kRq",
+          "name": "naziv",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "USAGE_IN_TITLE",
+          "relationType": null,
+          "source": {
+            "u": "Fqs&c&c;3es5fd49)kRq",
+            "tt": "naziv",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 1,
+            "lib": "Ura2gbn:jJ&y&Z*8ey*0",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 150,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Fqs&c&c;3es5fd49)kRq",
+                "t": "Fqs&c&c;3es5fd49)kRq",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "PJ5YBb]SP%9oC6PhF+Ym",
+          "name": "domen",
+          "type": "choice",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [
+            "Odnosi",
+            "Telo",
+            "Novac",
+            "Žene"
+          ],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "PJ5YBb]SP%9oC6PhF+Ym",
+            "tt": "domen",
+            "hint": "",
+            "type": "ft_str_list",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 2,
+            "lib": "Ura2gbn:jJ&y&Z*8ey*0",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 75,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "PJ5YBb]SP%9oC6PhF+Ym",
+                "t": "PJ5YBb]SP%9oC6PhF+Ym",
+                "s": "{\"sl\":[{\"t\":\"Odnosi\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Telo\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Novac\",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Žene\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "MOMg:oOS6A2qFQWBUe*T",
+          "name": "Aktivnosti",
+          "type": "link",
+          "required": false,
+          "auto": false,
+          "target": "[4Zg:UeLxf(&YGut&q<g",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": 0,
+          "source": {
+            "u": "MOMg:oOS6A2qFQWBUe*T",
+            "tt": "Aktivnosti",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 3,
+            "lib": "Ura2gbn:jJ&y&Z*8ey*0",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "MOMg:oOS6A2qFQWBUe*T",
+                "t": "MOMg:oOS6A2qFQWBUe*T",
+                "s": "[4Zg:UeLxf(&YGut&q<g",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        }
+      ],
+      "source": {
+        "templates": [
+          {
+            "u": "Mm0O)Dm-iTa<8e2KKYn%",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 0,
+            "lib": "Ura2gbn:jJ&y&Z*8ey*0",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 50,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Mm0O)Dm-iTa<8e2KKYn%",
+                "t": "Mm0O)Dm-iTa<8e2KKYn%",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "Fqs&c&c;3es5fd49)kRq",
+            "tt": "naziv",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 1,
+            "lib": "Ura2gbn:jJ&y&Z*8ey*0",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 150,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "Fqs&c&c;3es5fd49)kRq",
+                "t": "Fqs&c&c;3es5fd49)kRq",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "PJ5YBb]SP%9oC6PhF+Ym",
+            "tt": "domen",
+            "hint": "",
+            "type": "ft_str_list",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 2,
+            "lib": "Ura2gbn:jJ&y&Z*8ey*0",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 75,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "PJ5YBb]SP%9oC6PhF+Ym",
+                "t": "PJ5YBb]SP%9oC6PhF+Ym",
+                "s": "{\"sl\":[{\"t\":\"Odnosi\",\"c\":1,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Telo\",\"c\":2,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Novac\",\"c\":3,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]},{\"t\":\"Žene\",\"c\":4,\"def\":false,\"c_text\":false,\"f\":false,\"children\":[]}],\"sort\":false}",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "MOMg:oOS6A2qFQWBUe*T",
+            "tt": "Aktivnosti",
+            "hint": "",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 3,
+            "lib": "Ura2gbn:jJ&y&Z*8ey*0",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"compactEditMode\":false,\"compactViewMode\":false,\"defaultEntriesIds\":[],\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "MOMg:oOS6A2qFQWBUe*T",
+                "t": "MOMg:oOS6A2qFQWBUe*T",
+                "s": "[4Zg:UeLxf(&YGut&q<g",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        ],
+        "entry_pages": "{\"pages\":[{\"t\":\"def_page_title\",\"f\":[0,1,2,3],\"ml\":[\"[Aivyxd;R-QYWDM))M(u\",\"XRY1eIMuB8V17ru05z#k\",\"\\u003e5Im%[vTqq\\u003c+VpG-w0U#\"],\"inv\":[\"[Aivyxd;R-QYWDM))M(u\"],\"hide_aggr\":[],\"d\":true,\"hidden\":false}],\"steps\":false,\"name_max_lines\":1,\"desc_max_lines\":2}",
+        "title": "Ishod",
+        "icon": "flat:folder_blue.png",
+        "version": 26,
+        "triggers": ""
+      }
+    },
+    {
+      "id": "[4Zg:UeLxf(&YGut&q<g",
+      "name": "Aktivnost",
+      "fields": [
+        {
+          "id": "%<KqOjp&Hk5O;rtqgucM",
+          "name": "id",
+          "type": "integer",
+          "required": false,
+          "auto": true,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "NOT_USAGE",
+          "relationType": null,
+          "source": {
+            "u": "%<KqOjp&Hk5O;rtqgucM",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 0,
+            "lib": "[4Zg:UeLxf(&YGut&q<g",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "%<KqOjp&Hk5O;rtqgucM",
+                "t": "%<KqOjp&Hk5O;rtqgucM",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        },
+        {
+          "id": "E+m1z*x2vcDGNeb8P4;B",
+          "name": "naziv",
+          "type": "text",
+          "required": false,
+          "auto": false,
+          "target": "",
+          "options": [],
+          "default": [],
+          "description": "",
+          "usage": "USAGE_IN_TITLE",
+          "relationType": null,
+          "source": {
+            "u": "E+m1z*x2vcDGNeb8P4;B",
+            "tt": "naziv",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 1,
+            "lib": "[4Zg:UeLxf(&YGut&q<g",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 200,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "E+m1z*x2vcDGNeb8P4;B",
+                "t": "E+m1z*x2vcDGNeb8P4;B",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        }
+      ],
+      "source": {
+        "templates": [
+          {
+            "u": "%<KqOjp&Hk5O;rtqgucM",
+            "tt": "id",
+            "hint": "",
+            "type": "ft_int",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 0,
+            "lib": "[4Zg:UeLxf(&YGut&q<g",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"showCalc\":false,\"groupSeparator\":false,\"displayConvertUnitButton\":false,\"incDelta\":1.0,\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "%<KqOjp&Hk5O;rtqgucM",
+                "t": "%<KqOjp&Hk5O;rtqgucM",
+                "s": "auto",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          },
+          {
+            "u": "E+m1z*x2vcDGNeb8P4;B",
+            "tt": "naziv",
+            "hint": "",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 1,
+            "lib": "[4Zg:UeLxf(&YGut&q<g",
+            "r": false,
+            "stats": "",
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 200,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"descriptionPos\":17,\"directEdit\":0,\"textDrawable\":false,\"colorizeRules\":\"{\\\"colorTarget\\\":0,\\\"rules\\\":[]}\",\"colSpan\":1}",
+            "cnt": [
+              {
+                "o": "E+m1z*x2vcDGNeb8P4;B",
+                "t": "E+m1z*x2vcDGNeb8P4;B",
+                "i": 0
+              }
+            ],
+            "unique": false,
+            "readonly": false
+          }
+        ],
+        "entry_pages": "{\"pages\":[{\"t\":\"def_page_title\",\"f\":[0,1],\"ml\":[],\"inv\":[],\"hide_aggr\":[],\"d\":true,\"hidden\":false}],\"steps\":false,\"name_max_lines\":1,\"desc_max_lines\":2}",
+        "title": "Aktivnost",
+        "icon": "flat:folder_blue.png",
+        "version": 26,
+        "triggers": ""
+      }
+    }
+  ]
+}
